@@ -1,0 +1,42 @@
+body{
+    font-family: 'Merriweather', serif;
+        
+    }
+.header{
+   
+    height: 600px;
+   background-image: url(/resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(0 0 0 / 42%);
+background-blend-mode: color ;
+filter: contrast(140%);
+   
+   flex-shrink: 0;
+    border-radius: 16px;
+    margin: 50px 150px 50px;
+    opacity: 0.8;
+    
+    
+}
+
+.banner-greeting{
+    color: #FFF;
+text-align: center;
+    font-size: 32px;
+font-weight: 400;
+padding-top: 137px;
+
+
+
+}
+.banner-title{
+    color:#FFF;
+text-align: center;
+    font-size: 72px;
+font-weight: 900;
+padding: auto;
+
+
+
+}
