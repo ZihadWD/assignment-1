@@ -1,3 +1,4 @@
+
 body{
     font-family: 'Merriweather', serif;
         
@@ -208,19 +209,22 @@ padding-bottom: 200px;
                 /* margin: auto; */
                 
                 }
+                
                 .bottom{
                     /* padding: auto; */
                     height: 150px;
                 }
-                
                 .side-img{
-                   position: right;
-                   padding: 0px 0px 0px 550px;
-                   height: 300px;
-                   width: 300px;
-                   orientation: right;
+                    position: right;
+                    padding: 0px 0px 0px 550px;
+                    height: 300px;
+                    width: 300px;
+                    orientation: right;}
+                   
+                
+                
                   
-                }
+                
                 
                 .gift-head{
                     color: #F00;
@@ -290,4 +294,4 @@ padding-bottom: 200px;
             .icon2{
                 gap: 10px;
             }
-                
+            
